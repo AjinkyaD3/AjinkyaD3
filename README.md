@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @AjinkyaD3
-- 👀 I’m interested in Learning new Things 
-- 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on Open-source projects
-- 📫 How to reach me @ig: _ajinkya_0407
+👋 Hi, I’m @AjinkyaD3 (https://github.com/AjinkyaD3), a passionate Computer Science enthusiast crafting code with Java, JavaScript, and Python.
 
-<!---
-AjinkyaD3/AjinkyaD3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+
+👀 I’m interested in learning new things and exploring the endless possibilities in the world of technology.
+
+🌱 I’m currently on a learning journey, honing my skills and expanding my knowledge base.
+
+💞️ I’m looking to collaborate on open-source projects, connecting with fellow enthusiasts to create something impactful.
+
+📫 How to reach me: @ig: _ajinkya_0407 :(https://www.instagram.com/_ajinkya_0407/)
+ Connect with me on LinkedIn(https://www.linkedin.com/in/ajinkyad3/).
+
+# Experience
+
+# Intern at Naskraft IT Solutions PVT LTD.
+
+- Skills: Android Development, Android Studio, Java Database Connectivity (JDBC), JavaServer Pages (JSP), Java Swing, Enterprise JavaBeans (EJB), JavaScript, Java.
+
+
+# Skills
+-Java
+-JS
+-Android Development
+-Android Studio
+
+
+# Interests
+
+- Technology, Information, and Internet
