@@ -18,21 +18,11 @@ Right now, I'm deeply immersed in Web Development. It's all about the thrill of 
 
 ## Open-Source Adventures
 
-I'm not just a coder; I'm contributor to open-source projects that resonate with my passions.  👣
+I'm not just a coder; I'm a contributor to open-source projects that resonate with my passions. 👣
 
-## Skills Snapshot
 ## Skills Snapshot
 
 ### Languages & Tech Toolbox 🧰
-- JavaScript
-- Java
-- Python
-- Android Development
-- Android Studio
-- Java Database Connectivity (JDBC)
-- JavaServer Pages (JSP)
-- Java Swing
-- Enterprise JavaBeans (EJB)
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -74,9 +64,6 @@ I'm not just a coder; I'm contributor to open-source projects that resonate with
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-
-
 
 ## Where to Find Me
 
