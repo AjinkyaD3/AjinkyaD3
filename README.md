@@ -10,19 +10,20 @@
 
 📫 How to reach me: @ig: _ajinkya_0407 :(https://www.instagram.com/_ajinkya_0407/)
  Connect with me on LinkedIn(https://www.linkedin.com/in/ajinkyad3/).
+ 
 
-# Experience
-
-# Intern at Naskraft IT Solutions PVT LTD.
-
-- Skills: Android Development, Android Studio, Java Database Connectivity (JDBC), JavaServer Pages (JSP), Java Swing, Enterprise JavaBeans (EJB), JavaScript, Java.
+- Skills: Android Development, Android Studio, 
 
 
 # Skills
--Java
--JS
+-JavaScript
+-Java.
 -Android Development
 -Android Studio
+-Java Database Connectivity (JDBC)
+-JavaServer Pages (JSP)
+-Java Swing
+-Enterprise JavaBeans (EJB), 
 
 
 # Interests
