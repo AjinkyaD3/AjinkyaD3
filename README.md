@@ -1,13 +1,12 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AjinkyaD3.AjinkyaD3" />
 </div>
+
 # 🌈 Hi there! I'm Ajinkya 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Developer+🚀;Full+Stack+Innovator+💻;Problem+Solving+Architect+🧩;Tech+Explorer+🔬" alt="Typing Animation"/>
 </div>
-
-
 
 ## 🌟 About Me
 
@@ -15,9 +14,9 @@ I'm a **passionate** Software Developer and **innovative** Computer Science Enth
 
 ### 🌱 Current Learning Expedition
 
-- 🐳 Diving deep into **Docker** containerization
-- ☁️ Exploring **AWS** cloud infrastructure
-- 🚀 Continuously expanding my technological horizons
+- 🐳 Diving deep into **Docker** containerization  
+- ☁️ Exploring **AWS** cloud infrastructure  
+- 🚀 Continuously expanding my technological horizons  
 
 ---
 
@@ -88,4 +87,3 @@ I'm a **passionate** Software Developer and **innovative** Computer Science Enth
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
