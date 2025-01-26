@@ -1,12 +1,12 @@
 # 🌈 Hi there! I'm Ajinkya 👋
-
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AjinkyaD3.AjinkyaD3" alt="Visitor Count"/>
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Developer+🚀;Full+Stack+Innovator+💻;Problem+Solving+Architect+🧩;Tech+Explorer+🔬" alt="Typing Animation"/>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AjinkyaD3.AjinkyaD3" alt="Visitor Count"/>
-</div>
+
 
 ## 🌟 About Me
 
