@@ -1,7 +1,11 @@
-# 🌈 Hi there! I'm Ajinkya  👋
+# 🌈 Hi there! I'm Ajinkya 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Developer+🚀;Full+Stack+Innovator+💻;Problem+Solving+Architect+🧩;Tech+Explorer+🔬" alt="Typing Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AjinkyaD3.AjinkyaD3" alt="Visitor Count"/>
 </div>
 
 ## 🌟 About Me
@@ -50,6 +54,14 @@ I'm a **passionate** Software Developer and **innovative** Computer Science Enth
 
 ---
 
+## 🐍 My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AjinkyaD3/AjinkyaD3/output/snake.svg" alt="Snake animation of contributions"/>
+</div>
+
+---
+
 ## 📊 GitHub Odyssey
 
 <div align="center">
@@ -65,13 +77,6 @@ I'm a **passionate** Software Developer and **innovative** Computer Science Enth
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🎓 [Placeholder for Certifications]
-- 🏅 [Placeholder for Hackathon/Competition Achievements]
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -81,14 +86,5 @@ I'm a **passionate** Software Developer and **innovative** Computer Science Enth
   <a href="https://linkedin.com/in/AjinkyaD3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AjinkyaD3.AjinkyaD3" alt="Visitor Count"/>
-
-</div>
