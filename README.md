@@ -45,7 +45,7 @@
 
 **Web Lead** · Google Developer Groups on Campus
 
-![tenure](https://img.shields.io/badge/2023%20–%202024-2d1d6e?style=flat-square)
+![tenure](https://img.shields.io/badge/2024%20–%202025-2d1d6e?style=flat-square)
 
 - Led the web team across events and technical sessions; maintained club's web presence
 
