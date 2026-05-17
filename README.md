@@ -84,7 +84,7 @@
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
         <br>Java
       </td>
       <td align="center" width="96">
@@ -106,7 +106,7 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Next.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
         <br>Next.js
       </td>
       <td align="center" width="96">
@@ -177,7 +177,7 @@
 
 <br/>
 
-### 〔 Full Stack 〕
+### 🔹 Full Stack at a Glance
 
 <div align="center">
 
