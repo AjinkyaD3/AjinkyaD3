@@ -36,7 +36,7 @@
 
 **Software Developer Intern** · BrainMine Web Solutions
 
-![tenure](https://img.shields.io/badge/Jan%202024%20–%20Present-0c2d6b?style=flat-square)
+![tenure](https://img.shields.io/badge/Feb%202026%20–%20Present-0c2d6b?style=flat-square)
 ![location](https://img.shields.io/badge/Pune%20(Hybrid)-161b22?style=flat-square)
 
 - Built and maintained production websites using Next.js 14, TypeScript, Tailwind CSS, and Sanity CMS
