@@ -22,12 +22,13 @@
 ## 🧑‍💻 About Me
 
 <table>
-<tr><td>🎓</td><td><b>B.E. Information Technology</b>, Pune &nbsp;<i>(Final Year)</i></td></tr>
-<tr><td>💼</td><td><b>Software Developer Intern</b> @ BrainMine Web Solutions — production work on international client projects</td></tr>
+<tr><td>🎓</td><td><b>B.E. Information Technology</b> (SPPU), Pune &nbsp;<i>(Final Year, 2027)</i></td></tr>
+<tr><td>💼</td><td>Ex-<b>Software Developer Intern</b> @ BrainMine Web Solutions — 7 months of production work for UK clients</td></tr>
+<tr><td>🚀</td><td>Co-building <b><a href="https://looply.codexajinkya.in">LoopLy</a></b> — a loyalty &amp; scratch-card SaaS for local shops</td></tr>
 <tr><td>🌐</td><td>Shipped full-stack web apps with CRM integrations, CMS pipelines, and real users</td></tr>
 <tr><td>🧩</td><td>Former <b>Web Lead @ GDG on Campus</b> — community events, tech sessions, web projects</td></tr>
 <tr><td>📍</td><td>Pune, India &nbsp;|&nbsp; 📫 <a href="mailto:mail.ajinkyadhotre@gmail.com">mail.ajinkyadhotre@gmail.com</a></td></tr>
-<tr><td>🔍</td><td><b>Open to SDE roles</b> — campus & off-campus</td></tr>
+<tr><td>🔍</td><td><b>Open to backend / full-stack SDE roles</b> — available to join immediately</td></tr>
 </table>
 
 ---
@@ -36,12 +37,12 @@
 
 **Software Developer Intern** · BrainMine Web Solutions
 
-![tenure](https://img.shields.io/badge/Feb%202026%20–%20Present-0c2d6b?style=flat-square)
-![location](https://img.shields.io/badge/Pune%20(Hybrid)-161b22?style=flat-square)
+![tenure](https://img.shields.io/badge/Feb%202026%20–%20Sep%202026-0c2d6b?style=flat-square)
+![location](https://img.shields.io/badge/Pune-161b22?style=flat-square)
 
-- Built and maintained production websites using Next.js 14, TypeScript, Tailwind CSS, and Sanity CMS
-- Integrated website lead forms with a Frappe/ERPNext CRM backend via REST APIs
-- Delivered multiple client-facing sites end-to-end under tight deadlines using rapid prototyping
+- Sole developer on a 190+ page WordPress → Next.js migration for a UK security-doors company: removed injected malware, rebuilt technical SEO, cut page weight by 90%+
+- Built a real-time Visual Quote Builder (pricing configurator) that went live for a UK client
+- Added Redis caching on high-traffic Spring Boot APIs; worked across Next.js 14, TypeScript, Sanity CMS, PostgreSQL, Docker and AWS with GitHub Actions CI/CD
 
 **Web Lead** · Google Developer Groups on Campus
 
@@ -53,16 +54,13 @@
 
 ## 🚀 Projects
 
-<!--
 | Project | Stack | What it does |
 |---|---|---|
-| **[Linky](https://github.com/AjinkyaD3/linky)** | Spring Boot · Next.js · Redis · PostgreSQL | URL shortener with analytics — aliases, click tracking, expiry |
-| **SyncCode** | Next.js · WebSockets · Monaco Editor | Real-time collaborative code editor with live cursor sync |
-| **ClientSite (Production)** | Next.js 14 · Sanity CMS · Tailwind · Frappe | Production site with CMS-driven content & CRM lead capture |
-| **OptionDost** *(WIP)* | Next.js · NSE APIs | Options chain analyzer — PCR ratio, OI buildup, max pain theory |
--->
-
-> 🔧 **Projects & what I'm building next** — updating soon
+| **[LoopLy](https://looply.codexajinkya.in)** *(live, private repo, 2-person team)* | Next.js 14 · TypeScript · Prisma · PostgreSQL | Multi-tenant loyalty + scratch-card SaaS: shops get a QR code, customers earn rewards with just a mobile number. Weighted prize draws in DB transactions, tenant isolation, subscription billing, 94 automated tests |
+| **[Linky](https://github.com/AjinkyaD3/linky)** · [live](https://linky.ajinkyadhotre.com) | Spring Boot · Next.js · Redis · PostgreSQL | URL shortener with password-protected and self-destructing links, Redis-cached redirects. 65+ tests that caught 7 real bugs |
+| **[OptionDost](https://github.com/AjinkyaD3/OptionDost)** · [live](https://optiondost.ajinkyadhotre.com) | Node.js · Express · MongoDB · TypeScript | NIFTY / BankNifty options analyzer: Black-Scholes Greeks, implied volatility, keeps working on saved data when the live feed is down |
+| **[Splitly](https://github.com/AjinkyaD3/splitly)** · [live](https://splitly.ajinkyadhotre.com) | Next.js 15 · Convex · Clerk | Real-time expense tracker with debt-graph settlement and atomic transactions |
+| **[ShopNexus](https://github.com/AjinkyaD3/ShopNexus)** · [live](https://shopnexus.ajinkyadhotre.com) | Spring Boot 3 · MySQL · Docker · AWS | E-commerce REST API with Clean Architecture, Flyway migrations, containerized on AWS EC2 |
 
 ---
 
@@ -251,6 +249,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AjinkyaD3)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjinkyaD3)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajinkyadhotre.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ajinkyadhotre.com)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AjinkyaD3)
 
